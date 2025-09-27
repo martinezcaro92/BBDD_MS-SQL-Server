@@ -166,14 +166,4 @@ El script lee `.env` y abre `sqlcmd` directamente.
 
 ---
 
-## 📥 Descarga rápida
-
-- [Descargar `docker-compose.yml`](sandbox:/mnt/data/mssql-docker/docker-compose.yml)  
-- [Descargar `.env.example`](sandbox:/mnt/data/mssql-docker/.env.example)  
-- [Descargar `init/01-init.sql`](sandbox:/mnt/data/mssql-docker/init/01-init.sql)  
-- [Descargar `scripts/connect.ps1`](sandbox:/mnt/data/mssql-docker/scripts/connect.ps1)  
-- [Descargar `README.md`](sandbox:/mnt/data/mssql-docker/README.md)
-
----
-
 ¡Listo! Con esto puedes levantar **SQL Server 2022 en Docker** con **persistencia** e **inicialización automática**, y conectarte por CLI o GUI.
